@@ -1,5 +1,5 @@
-py -m pip install pandas
-py -m pip install stremlit
-py -m pip install matplotlib
-py -m pip install sklearn
-py -m pip install PIL
+pip install pandas
+pip install stremlit
+pip install matplotlib
+pip install sklearn
+pip install PIL
